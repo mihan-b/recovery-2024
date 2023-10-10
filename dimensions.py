@@ -5,11 +5,11 @@ g = 9.80665
 
 # Inputs
 dry_mass_kg = 15.778
-rocket_length_m = 2.73
+rocket_length_m = 2.8448
 parachute_cd = 0.97
 apogee_m = 3600
 launch_alt_m = 1401
-inner_diameter_m = 0.123952
+inner_diameter_m = 0.127
 inner_area_m2 = math.pi * ((inner_diameter_m/2) ** 2)
 
 main_velocity_ms = 5
